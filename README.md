@@ -3,7 +3,7 @@ Preparing the YouTube Faces dataset available on Kaggle for training
 
 A preprocessed version of the YouTube Faces dataset is available on Kaggle: https://www.kaggle.com/selfishgene/youtube-faces-with-facial-keypoints#youtube_faces_with_keypoints_large.csv
 
-It contains videos of celebrities annotated with face detections and facial landmark points. The dataset is further processed with using Python in a Jupyter Notebook:
+It contains videos of celebrities annotated with face detections and facial landmark points. The dataset is further processed using Python in a Jupyter Notebook:
 
 1. Save all the images as PNG files, together with the corresponding face bounding boxes and landmarks.
 
